@@ -6,4 +6,4 @@ Stored in `FMA` directory.
 
 ## Homomorphic Computation of Local Alignment
 
-Stored in `HomLA` directory.
+Stored in `HLA` directory.
