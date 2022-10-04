@@ -18,9 +18,7 @@ cd FMHE/FMA
 make all
 ```
 
-Running example in [4]
-
----
+## Running example in [4]
 
 **Build FM-index of alignment**  
 Set `saa_dens` and `isaa_dens` in buildFMA.cpp, locate.cpp, and extract.cpp same as `sampling_rate` of SAA. (default: 32)
