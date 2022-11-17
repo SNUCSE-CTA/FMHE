@@ -1,0 +1,133 @@
+aoso2
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.013954, VERIFY: 0.000174, SUM: 0.014128
+found 8 occurrences
+CT: 0.201941
+test success!
+aoso4
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.048327, VERIFY: 0.000167, SUM: 0.048494
+found 8 occurrences
+CT: 0.201313
+test success!
+aoso6
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.066811, VERIFY: 0.000169, SUM: 0.066981
+found 8 occurrences
+CT: 0.200903
+test success!
+kmp
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.056215, VERIFY: 0.000187, SUM: 0.056402
+found 8 occurrences
+CT: 0.202196
+test success!
+bndm
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.020208, VERIFY: 0.000172, SUM: 0.020380
+found 8 occurrences
+CT: 0.201655
+test success!
+bndmq2
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.019401, VERIFY: 0.000166, SUM: 0.019568
+found 8 occurrences
+CT: 0.205055
+test success!
+bndmq4
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.017272, VERIFY: 0.000167, SUM: 0.017439
+found 8 occurrences
+CT: 0.204903
+test success!
+bsdm
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.063745, VERIFY: 0.000168, SUM: 0.063913
+found 8 occurrences
+CT: 0.205339
+test success!
+bsdm2
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.047781, VERIFY: 0.000170, SUM: 0.047951
+found 8 occurrences
+CT: 0.205169
+test success!
+bsdm3
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.030324, VERIFY: 0.000168, SUM: 0.030492
+found 8 occurrences
+CT: 0.204293
+test success!
+bsdm4
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.025061, VERIFY: 0.000171, SUM: 0.025232
+found 8 occurrences
+CT: 0.206930
+test success!
+sbndm
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.018790, VERIFY: 0.000170, SUM: 0.018960
+found 8 occurrences
+CT: 0.205577
+test success!
+sbndmq2
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.018888, VERIFY: 0.000170, SUM: 0.019058
+found 8 occurrences
+CT: 0.204156
+test success!
+sbndmq4
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.018360, VERIFY: 0.000352, SUM: 0.018712
+found 8 occurrences
+CT: 0.205912
+test success!
+bm
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.028375, VERIFY: 0.000168, SUM: 0.028544
+found 8 occurrences
+CT: 0.201638
+test success!
+ebom
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.027772, VERIFY: 0.000183, SUM: 0.027955
+found 8 occurrences
+CT: 0.205640
+test success!
+fbom
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.027608, VERIFY: 0.000172, SUM: 0.027780
+found 8 occurrences
+CT: 0.204820
+test success!
+hash3
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.020105, VERIFY: 0.000173, SUM: 0.020278
+found 8 occurrences
+CT: 0.202123
+test success!
+hash5
+found 4067 candidates
+found 8 occurrences
+FILTER: 0.015369, VERIFY: 0.000169, SUM: 0.015539
+found 8 occurrences
+CT: 0.202199
+test success!

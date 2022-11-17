@@ -1,0 +1,57 @@
+aoso2
+found 1 occurrences
+FILTER: 0.010676, VERIFY: 0.000012, SUM: 0.010688
+aoso4
+found 1 occurrences
+FILTER: 0.009054, VERIFY: 0.000012, SUM: 0.009066
+aoso6
+found 1 occurrences
+FILTER: 0.018572, VERIFY: 0.000012, SUM: 0.018584
+kmp
+found 1 occurrences
+FILTER: 0.055012, VERIFY: 0.000012, SUM: 0.055025
+bndm
+found 1 occurrences
+FILTER: 0.011509, VERIFY: 0.000013, SUM: 0.011522
+bndmq2
+found 1 occurrences
+FILTER: 0.012833, VERIFY: 0.000010, SUM: 0.012843
+bndmq4
+found 1 occurrences
+FILTER: 0.010726, VERIFY: 0.000010, SUM: 0.010736
+bsdm
+found 1 occurrences
+FILTER: 0.064627, VERIFY: 0.000010, SUM: 0.064637
+bsdm2
+found 0 occurrences
+FILTER: 0.038136, VERIFY: 0.000009, SUM: 0.038146
+bsdm3
+found 0 occurrences
+FILTER: 0.020202, VERIFY: 0.000010, SUM: 0.020212
+bsdm4
+found 0 occurrences
+FILTER: 0.015449, VERIFY: 0.000010, SUM: 0.015459
+sbndm
+found 1 occurrences
+FILTER: 0.011422, VERIFY: 0.000010, SUM: 0.011432
+sbndmq2
+found 1 occurrences
+FILTER: 0.010626, VERIFY: 0.000011, SUM: 0.010636
+sbndmq4
+found 1 occurrences
+FILTER: 0.010156, VERIFY: 0.000011, SUM: 0.010167
+bm
+found 1 occurrences
+FILTER: 0.020051, VERIFY: 0.000013, SUM: 0.020064
+ebom
+found 1 occurrences
+FILTER: 0.011337, VERIFY: 0.000006, SUM: 0.011343
+fbom
+found 1 occurrences
+FILTER: 0.012056, VERIFY: 0.000007, SUM: 0.012063
+hash3
+found 1 occurrences
+FILTER: 0.015482, VERIFY: 0.000011, SUM: 0.015493
+hash5
+found 1 occurrences
+FILTER: 0.008256, VERIFY: 0.000010, SUM: 0.008266
